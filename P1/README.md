@@ -38,5 +38,5 @@ Finalmente, la quinta tarea recoge una propuesta propia de pop art elaborada a p
 
 <br>
 <br>
-Uso de inteligencia artificial: en el desarrollo de esta práctica se ha utilizado la inteligencia generativa para realizar las actividades que requerían su uso, así como, para también para consultar que estrategia sigue el código autogenerado y realizar consultas sobre la librería time. Nota: el modelo utilizado es gemini pro 3.1. 
+**Uso de inteligencia artificial:** en el desarrollo de esta práctica se ha utilizado la inteligencia generativa para realizar las actividades que requerían su uso, así como, para también para consultar que estrategia sigue el código autogenerado y realizar consultas sobre la librería time. Nota: el modelo utilizado es gemini pro 3.1. 
 </div>
