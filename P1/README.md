@@ -35,4 +35,8 @@ Para acelerarlo se ha solicitado a la inteligencia generativa una alternativa op
 <br>
 <br>
 Finalmente, la quinta tarea recoge una propuesta propia de pop art elaborada a partir de la señal de vídeo en directo. El fotograma se divide en tres tiras verticales de igual anchura que se recolocan en un orden distinto al original, generando una composición fragmentada y repetida característica del movimiento. Sobre cada tira se aplica además una manipulación diferente de los canales de color: en la primera se permutan los canales, mientras que en las dos restantes se invierte uno de ellos mediante el complemento <code>255 - canal</code>. El resultado son tres variantes cromáticas saturadas y de alto contraste de una misma imagen, en la línea de las serigrafías repetidas de Andy Warhol.
+
+<br>
+<br>
+Uso de inteligencia artificial: en el desarrollo de esta práctica se ha utilizado la inteligencia generativa para realizar las actividades que requerían su uso, así como, para también para consultar al modelo que estrategia sigue el código autogenerado y realizar consultas sobre la librería time. Nota: el modelo utilizado es gemini pro 3.1. 
 </div>
