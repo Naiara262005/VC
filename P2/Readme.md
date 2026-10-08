@@ -51,7 +51,7 @@ En esta segunda tarea se ha umbralizado la salida de Sobel (8 bits), contando p�
 
 
 <p align="center">
-  <img src="(resultados/tarea2_sobel.png" width="700">
+  <img src="resultados/tarea2_sobel.png" width="700">
 </p>
 
 <p align="center">
@@ -109,7 +109,8 @@ Como demostración gráfica, hemos creado dos animaciones donde hacemos uso de l
 - Enunciado y cuaderno base de la práctica 2, Visión por Computador, ULPGC. El código de preparación (grises, Canny, Sobel y conversión a 8 bits) parte de los ejemplos de dicho cuaderno.
 - Propuestas de la tarea 3; [My little piece of privacy](https://www.niklasroy.com/project/88/my-little-piece-of-privacy) (Niklas Roy), [Messa di voce](https://youtu.be/GfoqiyB1ndE?feature=shared) (Golan Levin y Zachary Lieberman) y [Virtual air guitar](https://youtu.be/FIAmyoEpV5c?feature=shared). Se tomó como punto de partida esta última.
 
-- Se utilizó gemini en algunos momentos para corregir errores (variables sin definir entre celdas, ejes de gráficas o color de las marcas en RGB).
+- Se utilizó gemini en algunos momentos para corregir errores (variables sin definir entre celdas, ejes de gráficas o color de las marcas en RGB). Asimismo, también se hicieron consultas relativas la readme, por ejemplo, si insertar un gif se hacia de la misma forma que una imagen.
+
 
 ****
 - [Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
