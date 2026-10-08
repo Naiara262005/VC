@@ -88,7 +88,7 @@ Para ello, hemos creado un contador de movimiento, que contabiliza como repetici
 Como demostración gráfica, hemos creado dos animaciones donde hacemos uso de la herramienta:
 
 <p align="center">
-  <img src="resultados/P2_Demo_Alejandro.gif" width="500">
+  <img src="resultados/P2_Demo_Alejandro.gif" width="630">
   <br>
   <em>Demostración del contador de movimiento realizado por Alejandro, reseteando el contador al finalizar.</em>
 </p>
@@ -96,7 +96,7 @@ Como demostración gráfica, hemos creado dos animaciones donde hacemos uso de l
 
 
 <p align="center">
-  <img src="resultados/P2_Demo_Naiara.gif" width="500">
+  <img src="resultados/P2_Demo_Naiara.gif" width="630">
   <br>
   <em>Demostración del contador de movimiento realizado por Naiara.</em>
 </p>
