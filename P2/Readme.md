@@ -21,6 +21,8 @@ Las dos primeras tareas trabajan sobre la siguiente imagen:
 
 <p align="center">
   <img src="resultados/mandril.jpg" width="400">
+  <br> 
+  <em>Imagen sin modificar del mandril, que destaca por el contraste de sus colores.</em>
 </p>                            
 
 
@@ -36,6 +38,8 @@ En esta primera tarea, se han analizado las filas de la imagen procesada del man
 
 <p align="center">
   <img src="resultados/tarea1_canny_filas.png" width="700">
+  <br>
+  <em>Resultado de aplicar Canny para un umbral superior a 0.90.</em>
 </p>
 
 ### Tarea 2. Sobel umbralizado y comparación con Canny
@@ -52,13 +56,21 @@ En esta segunda tarea se ha umbralizado la salida de Sobel (8 bits), contando p�
 
 <p align="center">
   <img src="resultados/tarea2_sobel.png" width="700">
+  <br> 
+  <em>Representación de Sobel en 8 bits,  umbralizado a 130, así como, filas y columnas seleccionadas para valores mayores a  0.90·max sobre el mandril.</em>
 </p>
 
 <p align="center">
   <img src="resultados/tarea2_comparacion.png" width="700">
+  <br>
+  <em>En la mitad superior de la imagen se representan los píxeles de borde por columnas y por filas con Sobel umbralizado, mostrándose en la mitad inferior Canny. La línea discontinua roja indica el umbral de 0.90·máx.</em>
 </p>
+
+
 <p align="center">
   <img src="resultados/tarea2_marcas.png" width="700">
+  <br>
+  <em>Filas y columnas detectadas con Sobel y Canny para valores iguales o superiores al umbral. </em>
 </p>
 
 
