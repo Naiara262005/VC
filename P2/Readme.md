@@ -3,11 +3,11 @@
 **Autores:**  [Naiara Díaz Hernández](https://github.com/Naiara262005) y [Alejandro José Martel Torres](https://github.com/AlejandroMartel1)
 ### Contenidos
 
-[Descripción del trabajo](#21-descripción-del-trabajo)  
-[Tarea 1. Conteo por filas en Canny](#24-tarea-1-conteo-de-píxeles-de-canny-por-filas)  
-[Tarea 2. Sobel umbralizado y comparación con Canny](#25-tarea-2-sobel-umbralizado-y-comparación-con-canny)  
-[Tarea 3. Movement Counter](#26-tarea-3-movement-count)
-[Fuentes y herramientas utilizadas](#27-fuentes-y-herramientas-utilizadas)  
+[Descripción del trabajo](#descripción-del-trabajo)  
+[Tarea 1. Conteo por filas en Canny](#tarea-1-conteo-de-píxeles-de-canny-por-filas)  
+[Tarea 2. Sobel umbralizado y comparación con Canny](#tarea-2-sobel-umbralizado-y-comparación-con-canny)  
+[Tarea 3. Movement Counter](#tarea-3-movement-counter)  
+[Fuentes y herramientas utilizadas](#fuentes-y-herramientas-utilizadas)
 
 ### Descripción del trabajo
 
