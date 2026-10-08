@@ -35,7 +35,7 @@ En esta primera tarea, se han analizado las filas de la imagen procesada del man
 5. Se representa gráficamente el recuento de filas con la línea del umbral.
 
 <p align="center">
-  <img src="resultados/tarea1_canny_filas.png" width="400">
+  <img src="resultados/tarea1_canny_filas.png" width="700">
 </p>
 
 ### Tarea 2. Sobel umbralizado y comparación con Canny
@@ -51,14 +51,14 @@ En esta segunda tarea se ha umbralizado la salida de Sobel (8 bits), contando p�
 
 
 <p align="center">
-  <img src="(resultados/tarea2_sobel.png" width="400">
+  <img src="(resultados/tarea2_sobel.png" width="700">
 </p>
 
 <p align="center">
-  <img src="resultados/tarea2_comparacion.png" width="400">
+  <img src="resultados/tarea2_comparacion.png" width="700">
 </p>
 <p align="center">
-  <img src="resultados/tarea2_marcas.png" width="400">
+  <img src="resultados/tarea2_marcas.png" width="700">
 </p>
 
 
