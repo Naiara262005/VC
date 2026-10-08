@@ -11,7 +11,7 @@
 
 ### Descripción del trabajo
 
-El cuaderno entregado (*Tareas_P2.ipynb*) contiene únicamente la resolución de las tres tareas propuestas en el cuaderno de la práctica, con una celda de contextualización antes de cada celda de código.
+El cuaderno entregado (*Tareas_P2.ipynb*) contiene la resolución de las tres tareas propuestas en el cuaderno de la práctica, con una celda de contextualización antes de cada celda de código.
 
 - **Tarea 1:** recuento de píxeles empleando Canny por filas y resaltado de las filas dominantes.
 - **Tarea 2:** umbralizado de Sobel, recuento por filas y columnas, marcado sobre la imagen y comparación con Canny.
