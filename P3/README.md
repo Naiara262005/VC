@@ -58,7 +58,7 @@ Las monedas bimetálicas se detectan comparando el croma (distancia al gris neut
 Tras calibrar con la moneda de 1 € (escala de 0.1260 mm/px), se reconocen las 8 monedas sin descartar ningún círculo, con un total de 3.88 €, que coincide con el valor real de las monedas de la imagen.
 
 <p align="center">
-  <img src="images/tarea1_monedas.png" width="390", height="520">
+  <img src="images/tarea1_monedas.png" width="450">
   <br>
   <em>Resultado sobre la imagen estática: cada moneda aparece rodeada en verde con el valor asignado.</em>
 </p>
