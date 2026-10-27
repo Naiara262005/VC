@@ -7,7 +7,8 @@ El repositorio está organizado en carpetas individuales para cada entrega:
 
 * **[P1](./P1)**: Primeros pasos con OpenCV.
 * **[P2](./P2)**: Funciones básicas de OpenCV.
-* **[P3](./P3)**:Detección y reconocimiento de formas.
+* **[P3](./P3)**: Detección y reconocimiento de formas.
+* **[P4](./P4)**: Detección de vehículos y matrículas.
 
 ## Autores
 * [Naiara](https://github.com/Naiara262005)
